@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGGEXV/x4FLyUm61ddjZlN2T09m5JwD06vRCbGXgm/QvoCuX2VO14ZoxScz0iCweAwTmBNcoMa0GXmZuoumWwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murtuza\\source\\repos\\ContradoTest.Helper\\ContradoTest.Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murtuza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Murtuza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Murtuza\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Murtuza\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Murtuza\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Murtuza\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Murtuza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

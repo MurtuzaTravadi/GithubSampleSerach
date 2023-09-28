@@ -1,0 +1,15 @@
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\bin\Debug\net6.0\ContradoTest.ServiceLayer.deps.json
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\bin\Debug\net6.0\ContradoTest.ServiceLayer.dll
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\bin\Debug\net6.0\ContradoTest.ServiceLayer.pdb
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\bin\Debug\net6.0\ContradoTest.Models.dll
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\bin\Debug\net6.0\ContradoTest.Models.pdb
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\obj\Debug\net6.0\ContradoTest.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\obj\Debug\net6.0\ContradoTest.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\obj\Debug\net6.0\ContradoTest.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\obj\Debug\net6.0\ContradoTest.ServiceLayer.AssemblyInfo.cs
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\obj\Debug\net6.0\ContradoTest.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\obj\Debug\net6.0\ContradoTest.ServiceLayer.csproj.CopyComplete
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\obj\Debug\net6.0\ContradoTest.ServiceLayer.dll
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\obj\Debug\net6.0\refint\ContradoTest.ServiceLayer.dll
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\obj\Debug\net6.0\ContradoTest.ServiceLayer.pdb
+C:\Users\Murtuza\source\repos\ContradoTest.ServiceLayer\obj\Debug\net6.0\ref\ContradoTest.ServiceLayer.dll

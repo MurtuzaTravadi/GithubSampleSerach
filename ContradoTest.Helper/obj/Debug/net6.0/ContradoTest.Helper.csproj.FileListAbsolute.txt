@@ -1,0 +1,12 @@
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\bin\Debug\net6.0\ContradoTest.Helper.deps.json
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\bin\Debug\net6.0\ContradoTest.Helper.dll
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\bin\Debug\net6.0\ContradoTest.Helper.pdb
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\obj\Debug\net6.0\ContradoTest.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\obj\Debug\net6.0\ContradoTest.Helper.AssemblyInfoInputs.cache
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\obj\Debug\net6.0\ContradoTest.Helper.AssemblyInfo.cs
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\obj\Debug\net6.0\ContradoTest.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\obj\Debug\net6.0\ContradoTest.Helper.dll
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\obj\Debug\net6.0\refint\ContradoTest.Helper.dll
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\obj\Debug\net6.0\ContradoTest.Helper.pdb
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\obj\Debug\net6.0\ref\ContradoTest.Helper.dll
+C:\Users\Murtuza\source\repos\ContradoTest.Helper\obj\Debug\net6.0\ContradoTest.Helper.csproj.AssemblyReference.cache
