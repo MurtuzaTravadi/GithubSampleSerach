@@ -1,0 +1,21 @@
+﻿@model ContradoTest.Models.UserAndRepositories
+
+<h1>GitHub User Information</h1>
+
+<div class="user-info">
+    <img src="@Model.User.Avatar_Url" alt="User Avatar" class="img-thumbnail" style="max-width: 100px;">
+    <h2>@Model.User.Name</h2>
+    <p>@Model.User.bio</p>
+    <p>Location: @Model.User.Location</p>
+</div>
+
+<h2>Top 5 Repositories</h2>
+
+<ul>
+    @foreach (var repository in Model.Repositories)
+    {
+        <li>@repository.name (Stars: @repository.stargazers_count)</li>
+    }
+</ul>
+
+<a asp-controller="GitHub" asp-action="Index" class="btn btn-primary">Back to Search</a>

@@ -1,0 +1,44 @@
+﻿@model string
+
+<h1>Search GitHub User</h1>
+
+<form asp-controller="GitHub" asp-action="Search" method="post">
+    <div class="form-group">
+        <input type="text" class="form-control shorter-textbox" id="username" name="username" placeholder="GitHub Username e.g. murtuzatravadi" required maxlength="39">
+    </div>
+    <div class="button-container">
+        <button type="submit" class="btn btn-primary">Search</button>
+        <button type="button" class="btn btn-secondary" id="clear-button">Clear</button>
+    </div>
+    
+</form>
+
+@if (!string.IsNullOrEmpty(Model))
+{
+    <div class="alert alert-danger mt-3 shorter-textbox " id="error-message">@Model</div>
+}
+
+
+@section scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var errorMessageElement = document.getElementById('error-message');
+            var usernameInput = document.getElementById('username');
+
+            if (errorMessageElement && usernameInput) {
+                usernameInput.addEventListener('focus', function () {
+                    errorMessageElement.style.display = 'none';
+                });
+            }
+        });
+
+        document.addEventListener("DOMContentLoaded", function () {
+            const clearButton = document.getElementById("clear-button");
+            const usernameInput = document.getElementById("username");
+
+            clearButton.addEventListener("click", function () {
+                usernameInput.value = ""; // Clear the input field
+            });
+        });
+    </script>
+}
